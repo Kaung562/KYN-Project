@@ -1,0 +1,21 @@
+.terms-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-bottom: 40px;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  p {
+    color: #777;
+    line-height: 1.6;
+  }
+  
+  ul {
+    margin-left: 20px;
+    color: #777;
+  }
+  
